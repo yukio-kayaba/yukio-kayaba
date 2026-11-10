@@ -1,106 +1,87 @@
-<h1 align="center">
-Hi, I'm zain!
-<br/>
+<div align="center">
 
-<p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Developer Desktop;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+<img src="assets/terminal.gif" alt="Animated terminal introducing Zain" width="900" />
 
-<img align="left" src="https://github.com/yukio-kayaba/yukio-kayaba/blob/main/yukio.png" alt="foto de referencia para mi perfil" width="320" />
-<hr>
+# Zain Viamonte
 
+**Software Engineering Student | Backend & Full Stack Developer | Open Source Builder**
+
+Building reliable APIs, business applications, developer tooling and real-time systems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-yukio--kayaba-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/yukio-kayaba)
+[![npm](https://img.shields.io/badge/npm-zormz-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/zormz)
+[![Location](https://img.shields.io/badge/Peru-Madre%20de%20Dios-0F766E?style=flat-square&logo=googlemaps&logoColor=white)](#about-me)
+
+</div>
+
+---
+
+## <img src="assets/pulse.gif" width="25" alt="Animated indicator" /> About me
+
+```text
+zain@github
+---------------------------------------------------------
+Focus       Backend engineering, architecture and APIs
+Building    Multi-tenant business systems and developer tools
+Exploring   Real-time systems, networking, AI and desktop apps
+Environment Linux / Windows
+Principle   Build practical tools, keep systems maintainable
 ```
-I'm yukio-kayaba@github
--------------------------
-💻 I'm a self-taught full-stack developer and machine learning developer.
-📚 I'm a systems engineering student at the National University of Amazonia in Madre de Dios.
-📝 I'm very interested in video game and web development.
-🔭 I'm working on libraries that can make website development easier.
-🌱 I'm learning about computer vision and machine learning.
-🌟 Main languages: Java, C++, JavaScript.
-🚩 I'm interested in automated full-stack application development.
 
-🎵 I love music. XD.
-```
-<hr>
+I'm a Systems and Computer Engineering student at the **National Amazonian University of Madre de Dios (UNAMAD), Peru**. I enjoy designing typed APIs, relational data models and applications that solve practical problems. I also develop desktop interfaces with **Qt / QML / C++**, experiment with Linux and networking, and build my own developer tooling.
 
+## Technology stack
 
-## 🛠️ My Favorite Tools
+<div align="center">
 
-### 👨‍💻 Programming Languages
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,java,php,html,css&theme=dark" alt="TypeScript, JavaScript, C++, Python, Java, PHP, HTML and CSS" />
 
-<p>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+### Backend and real-time
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,redis&theme=dark" alt="Node.js, Express, PostgreSQL, MySQL and Redis" />
 
-### 🧰 Frameworks and Libraries
+### Interfaces and applications
+<img src="https://skillicons.dev/icons?i=react,qt,flutter,androidstudio&theme=dark" alt="React, Qt, Flutter and Android Studio" />
 
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+### Infrastructure and developer workflow
+<img src="https://skillicons.dev/icons?i=linux,git,github,aws,vscode,postman&theme=dark" alt="Linux, Git, GitHub, AWS, VS Code and Postman" />
 
-</p>
+<a href="https://apidog.com/"><img src="https://img.shields.io/badge/Apidog-API%20Design%20%26%20Testing-2563EB?style=for-the-badge" alt="Apidog - API design and testing" /></a>
+<a href="https://socket.io/"><img src="https://img.shields.io/badge/Socket.IO-Real--time-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" /></a>
+<a href="https://zod.dev/"><img src="https://img.shields.io/badge/Zod-Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" /></a>
 
-### 🗄️ Databases and Cloud Hosting
+</div>
 
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-</p>
+## Selected projects
 
-### 💻 Software and Tools
+| Project | What I build | Stack |
+|:---|:---|:---|
+| **[ZORMZ](https://www.npmjs.com/package/zormz)** | My own TypeScript ORM/query builder for PostgreSQL and MySQL, with typed queries and multiple database connections. | TypeScript, SQL, Node.js |
+| **Multi-tenant inventory platform** | Inventory, serial-numbered devices, sales, cash sessions, store management and permissions. | Node.js, Express, PostgreSQL, Socket.IO |
+| **School management platform** | Attendance, grades, family notifications and QR-based student access. | TypeScript, Qt/QML, SQL |
+| **Ticketing and payments** | Seat reservation lifecycle, order handling and payment integration. | TypeScript, SQL, Mercado Pago |
 
-<p>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+> Some projects are under active development. Project descriptions are not claims that every feature is publicly released.
 
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
+## GitHub activity
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yukio-kayaba&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity for yukio-kayaba" width="100%" />
+</div>
 
-## GitHub Stats
+## How I work
 
+- **API engineering:** TypeScript, Express, Zod, JWT, REST and Apidog for API design/testing.
+- **Data:** relational schemas, PostgreSQL/MySQL, query optimization and transaction-aware business flows.
+- **Applications:** Qt/QML desktop development and mobile application integration.
+- **Infrastructure:** Linux, Git, virtualization, networking and deployment experiments.
 
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| 
-    
+<div align="center">
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+---
 
+**Build. Test. Improve. Repeat.**
 
+<sub>Animated terminal and activity indicator are included locally in <code>assets/</code>. Technology logos are loaded from Skill Icons.</sub>
 
-
-<table style="border: none">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
-</table>
+</div>
